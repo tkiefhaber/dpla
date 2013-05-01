@@ -1,6 +1,6 @@
 # Dpla
 
-TODO: Write a gem description
+This is an wrapper for the Digital Public Library of America.
 
 ## Installation
 
