@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["tkiefhab@gmail.com"]
   gem.description   = %q{A wrapper for the Digital Public Library of America API.}
   gem.summary       = %q{A wrapper for the Digital Public Library of America API.}
-  gem.homepage      = "MIT"
+  gem.homepage      = "http://github.com/rustychicken/dpla"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
