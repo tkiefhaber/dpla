@@ -1,3 +1,4 @@
-require "dpla/version"
-require "dpla/configuration"
-require "dpla/item"
+require "./lib/dpla/version"
+require "./lib/dpla/configuration"
+require "./lib/dpla/item"
+require "./lib/dpla/collection"
